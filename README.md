@@ -4,7 +4,7 @@
 
 ## Description
 
-This fun JavaScript Quiz game is a great way to brush up on your knowledge of some JavaScript basics. Players will begin the game with 20 seconds on the timer to answer as many questions as they can. If a question is answered correctly, the timer will reset to 20 seconds. When the time expires, the player is taken to the results screen where they can see their own score and how it compares to the high score.
+This fun JavaScript Quiz game is a great way to brush up on your knowledge of some JavaScript basics. Players will begin the game with 20 seconds on the timer to answer as many questions as they can. If a question is answered correctly, it will appear in green and the timer will reset to 20 seconds. If a question is answered incorrectly, it will appear in red and the correct answer will appear in green. When the time expires, the player is taken to the results screen where they can see their own score and how it compares to the high score.
 
 ## Table of Contents
 
