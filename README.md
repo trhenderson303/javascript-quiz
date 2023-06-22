@@ -28,6 +28,9 @@ N/A
 
 The app stores the users' score in local storage and compares it against the highest score stored in local storage to determine the high score. Questions are also stored in an array of objects which can be easily extended to include more advanced topics in the future.
 
+<img width="1440" alt="Screenshot 2023-06-21 at 9 39 04 PM" src="https://github.com/trhenderson303/javascript-quiz/assets/132783253/c671744b-34be-4562-a1bf-3929ad387b56">
+
+
 ## License
 
 MIT License
